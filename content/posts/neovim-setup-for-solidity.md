@@ -3,7 +3,7 @@ title = 'neovim setup for solidity'
 date = 2023-10-15T00:00:00
 draft = false
 type = 'posts'
-summary = 'It has been over 2.5 months now since the [solidity-analyzer introduction post](../introducing-solidity-analyzer) and the development has been slow after the burst of development after start. Next things to do for me on `solidity-analyzer` is to add [code navigation](https://github.com/parmanuxyz/solidity-analyzer/issues/18) and...'
+summary = 'It has been over 2.5 months now since the [solidity-analyzer introduction post](/posts/introducing-solidity-analyzer) and the development has been slow after the burst of development after start. Next things to do for me on `solidity-analyzer` is to add [code navigation](https://github.com/parmanuxyz/solidity-analyzer/issues/18) and...'
 tags = ["solidity-analyzer", "solidity", "LSP", "ethereum", "nvim"]
 +++
 
